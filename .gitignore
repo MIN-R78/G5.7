@@ -1,0 +1,31 @@
+# Environment variable file
+.env
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local database files
+*.sqlite3
+*.db
+
+# macOS system file
+.DS_Store
+
+# SentenceTransformer model cache
+models/
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
